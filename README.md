@@ -11,22 +11,22 @@
 
 <hr style="border: 1px solid #ccc; margin: 20px 0;">
 
-<!--<p align="center">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,java,react,nextjs,tailwind,jest,git,figma" />
   </a>
-</p>-->
+</p>
 
 <hr style="border: 1px solid #ccc; margin: 20px 0;">
 
 <p>
-  <img 
+  <!--<img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
    src="https://github-readme-stats.vercel.app/api?username=EliamFuentes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+  />-->
 
 <img 
       align="left" 
