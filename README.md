@@ -11,11 +11,11 @@
 
 <hr style="border: 1px solid #ccc; margin: 20px 0;">
 
-<p align="center">
+<!--<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,java,react,nextjs,tailwind,jest,git,figma" />
   </a>
-</p>
+</p>-->
 
 <hr style="border: 1px solid #ccc; margin: 20px 0;">
 
